@@ -107,7 +107,6 @@ footer {
 .Formatted-correct {
     background-color: black;
     color: white;
-    border: 2px solid white;
     margin: 20px;
     padding: 20px;
   }
@@ -115,7 +114,6 @@ footer {
 .Code {
     background-color: #708090;
     color: white;
-    border: 2px solid white;
     margin: 20px;
     padding: 20px;
   }
