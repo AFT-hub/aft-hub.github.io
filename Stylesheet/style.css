@@ -104,4 +104,22 @@ footer {
     height: auto;
   }
 }
+
+.Formatted-correct {
+    background-color: black;
+    color: white;
+    border: 2px solid white;
+    margin: 20px;
+    padding: 20px;
+  }
+
+.Code {
+    background-color: grey;
+    color: white;
+    border: 2px solid white;
+    margin: 20px;
+    padding: 20px;
+  }
+
+
 </style>
