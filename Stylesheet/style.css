@@ -14,7 +14,7 @@
 
 body {
   font-family: Arial, Helvetica, sans-serif;
-  font-size: medium;
+  font-size: 16px;
    background-color: #333;
   color: #fff;
   font-family: Lato;
@@ -25,21 +25,31 @@ body {
   margin-bottom: 10px;
 }
 
-
+h1 {
+    color: #fff;
+  }
+  h2 {
+    Color: #87ceeb;
+  }
+  
+  h3{
+    color: #b0c4de;
+  }
+  
 a:link {
-  color: yellow;
+  color: #a3a3a3;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:visited {
-  color: purple;
+  color: #fff;
   background-color: transparent;
   text-decoration: none;
 }
 
 a:hover {
-  color: blue;
+  color: #fff;
   background-color: transparent;
   text-decoration: underline;
 }
@@ -97,7 +107,7 @@ footer {
 }
 
 /* Responsive layout - makes the two columns/boxes stack on top of each other instead of next to each other, on small screens */
-@media (max-width: 600px) {
+@media (max-width: 800px) {
   nav, article {
     width: 100%;
     height: auto;
@@ -105,14 +115,14 @@ footer {
 }
 
 .Formatted-correct {
-    background-color: #1e1e1e;
+    background-color: #708090;
     color: white;
     margin: 20px;
     padding: 20px;
   }
 
 .Code {
-    background-color: #708090;
+    background-color: #1e1e1e;
     color: white;
     margin: 20px;
     padding: 20px;
